@@ -15,7 +15,6 @@ public class SalarySlipGenerator {
 		System.out.println("DA 10% : "+ da);
 		System.out.println("Gross salary : "+grossSalary);
 
-
 	}
 
 	 void main(String[] args) {
